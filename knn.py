@@ -4,7 +4,7 @@ import os
 
 ### config ##
 
-dataRepo = "/home/nicolas/NSI/Initiation-Git"
+dataRepo = "/home/tnsi-eleve3/projets/HelloWorld/Initiation-Git"
 dataFile = "iris.csv"
 get_nom = {'0' : 'setosa', '1' : 'virginica', '2' : 'versicolor'}
 
