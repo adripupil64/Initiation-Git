@@ -86,5 +86,7 @@ def main(new_x, new_y, k):
     print("Il a atteint ", nb, "occurences sur les ", k, "possibles")
 
 
-main(1.5,0.3,5)
+
+main(1.5,0.4,5)
+
 
